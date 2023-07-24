@@ -7,5 +7,4 @@
 void reset_to_98(int *n)
 {
 *n = 98;
- /* Use the dereference operator (*) to access the value pointed to by n */
 }
