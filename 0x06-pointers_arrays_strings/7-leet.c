@@ -12,7 +12,7 @@ char *leet(char *str)
 char *ptr = str;
 char leet_map[] = "aAeEoOtTlL";
 char leet_replace[] = "4433007711";
-int i, j;
+int i;
 
 while (*ptr != '\0')
 {
