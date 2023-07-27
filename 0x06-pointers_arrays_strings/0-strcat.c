@@ -14,7 +14,7 @@ char *dest_end = dest;
 
 /** Find the end of the dest string */
 while (*dest_end != '\0')
-
+{
 dest_end++;
 }
 
